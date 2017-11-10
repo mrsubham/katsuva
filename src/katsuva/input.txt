@@ -1,16 +1,15 @@
 a is 5
-write a,bgh,"Helloe"
+write a,"Hello"
 from a in 1 to 10 inc_by 1
 if a>b
 write b
-if a==b
+if a<b
 continue
 else 
 break
 end_if
 else
 write a
-
+end_if
 end_if
 end_from
-
